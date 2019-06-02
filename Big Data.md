@@ -28,7 +28,7 @@ Het begon met bibliotheken, recent kwamen er DBMS (manuele input en gestructuree
 
 ### Beschrijving
 
-![1559462359090](C:\Users\Flori\Documents\Big Data MD\1559462359090.png)
+![1559462359090](https://raw.githubusercontent.com/florianvdab/big-data/master/1559462359090.png)
 
 Big Data kenmerken: 
 
@@ -108,13 +108,13 @@ Data = afspiegeling van voorwerpen of gebeurtenissen
 - Kernwaarden registeren (afhankelijk van situatie)
 - Registratie (transactie systeem via menselijke tussenkomst of via ander systeem)
 
-![1559462418359](C:\Users\Flori\Documents\Big Data MD\1559462418359.png)
+![1559462418359](https://raw.githubusercontent.com/florianvdab/big-data/master/1559462418359.png)
 
 (Te veel linken, te weinig linken, niet de juiste gegevens ...)
 
 ### Van data naar informatie
 
-![1559462498686](C:\Users\Flori\Documents\Big Data MD\1559462498686.png)
+![1559462498686](https://raw.githubusercontent.com/florianvdab/big-data/master/1559462498686.png)
 
 ### Opslag van informatie
 
@@ -134,7 +134,7 @@ Bv. Emails en telefoongesprekken = moeilijk te structureren data
 
 **BIG DATA**
 
-![1559462747726](C:\Users\Flori\Documents\Big Data MD\1559462747726.png)
+![1559462747726](https://raw.githubusercontent.com/florianvdab/big-data/master/1559462747726.png)
 
 *In grote informaticasystemen is er meestal een combinatie met uitwisseling. Datalake is dan de centrale bron. Zie bovenstaande foto.*
 
@@ -151,15 +151,15 @@ De eerste 3 zijn gestuurd door de gebruiker met een duidelijke vraag, vb. geef m
 
 #### Reporting
 
-![1559463069222](C:\Users\Flori\Documents\Big Data MD\1559463069222.png)
+![1559463069222](https://raw.githubusercontent.com/florianvdab/big-data/master/1559463069222.png)
 
 #### OLAP 
 
-![1559463082918](C:\Users\Flori\Documents\Big Data MD\1559463082918.png)
+![1559463082918](https://raw.githubusercontent.com/florianvdab/big-data/master/1559463082918.png)
 
 #### Zoekopdrachten
 
-![1559463100908](C:\Users\Flori\Documents\Big Data MD\1559463100908.png)
+![1559463100908](https://raw.githubusercontent.com/florianvdab/big-data/master/1559463100908.png)
 
 ### Datamining
 
@@ -184,11 +184,11 @@ SQL Opdrachten kunnen heel lang duren, denk maar aan het voorbeeld van in het bo
 
 #### Parallel verwerken
 
-![1559463534354](C:\Users\Flori\Documents\Big Data MD\1559463534354.png)
+![1559463534354](https://raw.githubusercontent.com/florianvdab/big-data/master/1559463534354.png)
 
 #### Key value
 
-![1559463559726](C:\Users\Flori\Documents\Big Data MD\1559463559726.png)
+![1559463559726](https://raw.githubusercontent.com/florianvdab/big-data/master/1559463559726.png)
 
 Wordt gestructureerd a.d.h.v **de “key value” methode**.
 Bv. hoeveel keer een woord voorkomt in een tekst.
@@ -197,7 +197,7 @@ Bv. hoeveel keer een woord voorkomt in een tekst.
 
 (Denk aan het lego blokjes verhaal)
 
-![1559463619265](C:\Users\Flori\Documents\Big Data MD\1559463619265.png)
+![1559463619265](https://raw.githubusercontent.com/florianvdab/big-data/master/1559463619265.png)
 
 = De techniek om het werk te verdelen over de verschillende computers
 ‘**map**’ -> verdelen van het werk
@@ -219,7 +219,7 @@ vb. Hoe wordt een stukje tekstverwerkt en doorzocht?
 - Elke computer maakt nu zijn eigen tabel met resultaten
 - Daarna worden de resultaten terug samengevoegd in een samenvattende tabel
 
-![1559464303856](C:\Users\Flori\Documents\Big Data MD\1559464303856.png)
+![1559464303856](https://raw.githubusercontent.com/florianvdab/big-data/master/1559464303856.png)
 
 #### Predictive Analytics
 
@@ -230,7 +230,7 @@ Winkels die voorspellen wat de aankoopgewoontes de komende periode zullen zijn.
 
 #### CAP - Theorema
 
-![1559464379167](C:\Users\Flori\Documents\Big Data MD\1559464379167.png)
+![1559464379167](https://raw.githubusercontent.com/florianvdab/big-data/master/1559464379167.png)
 
 **Dit moet altijd gegarandeerd zijn!**
 
@@ -251,19 +251,19 @@ In beeld brengen is interessant, maar in Data Science is de vraag:
 
 Gebruikt **elkaar uitsluitende** kenmerken, bv. kleur
 
-![1559465366034](C:\Users\Flori\Documents\Big Data MD\1559465366034.png)
+![1559465366034](https://raw.githubusercontent.com/florianvdab/big-data/master/1559465366034.png)
 
 Kenmerken moeten wel **onderscheidend** zijn. Aantal wielen bv. niet relevant.
 
 Kan een kleine testverzameling gedrag in een grote verzameling voorspellen?
 
-![1559465414617](C:\Users\Flori\Documents\Big Data MD\1559465414617.png)
+![1559465414617](https://raw.githubusercontent.com/florianvdab/big-data/master/1559465414617.png)
 
 Gebruik van **koppelingen** tussen data: toevallige overeenkomst of oorzakelijk verband?
 
 ### De oplossing
 
-![1559465448785](C:\Users\Flori\Documents\Big Data MD\1559465448785.png)
+![1559465448785](https://raw.githubusercontent.com/florianvdab/big-data/master/1559465448785.png)
 
 Kan een antwoord bieden op 2 zaken: 
 
@@ -289,7 +289,7 @@ Deze algoritmes ‘testen’ als het ware elk kenmerk op elk moment en gaan aan 
 
 **ENTROPIE = Maatstaf voor wanorde.**
 
-![1559465819649](C:\Users\Flori\Documents\Big Data MD\1559465819649.png)
+![1559465819649](https://raw.githubusercontent.com/florianvdab/big-data/master/1559465819649.png)
 
 Bij elke volgende keuze van het kenmerk kiest het algoritme het kenmerk dat entropie het meest verlaagt = informatiewinst
 
@@ -302,14 +302,14 @@ Risico van uitwerking tot in te groot detail. Belangrijke vraag is dus wanneer s
 Hoe wordt dit in business context bv. gebruikt? Stel je hebt een SAAS-product op de markt gebracht. Heel belangrijk hierbij is de ‘retention rate’.
 Je kan de kansen op ‘churn’ (abonnement niet verlegen) gaan onderzoeken op basis van historische gegevens en de kenmerken van klanten/gebruik van de software. Uit die conclusies kan je dan acties hieraan koppelen om in het vervolg beter te doen.
 
-![1559465890670](C:\Users\Flori\Documents\Big Data MD\1559465890670.png)
+![1559465890670](https://raw.githubusercontent.com/florianvdab/big-data/master/1559465890670.png)
 
 Ander voorbeeld: werking van een Helpdesk verbeteren…
 Op basis van historische data de kansen berekenen waar het probleem precies zit en welke hulp ingeschakeld moet worden
 
 ## Neurale Netwerken
 
-![1559470600888](C:\Users\Flori\Documents\Big Data MD\1559470600888.png)
+![1559470600888](https://raw.githubusercontent.com/florianvdab/big-data/master/1559470600888.png)
 
 ### Inleiding
 
@@ -318,7 +318,7 @@ Neuraal d.w.z simuleert de werking van onze hersenen (= netwerk van neuronen).
 Verschil met beslisboom: Er is geen vaste combinatie van inputs die sowieso binnenkomt, het hangt af van situatie tot situatie. 
 Bij een beslisboom is dat niet mogelijk want elk kenmerk kan altijd geëvalueerd worden en kan er dus niet altijd uitsluitsel gegeven worden.
 
-![1559470734159](C:\Users\Flori\Documents\Big Data MD\1559470734159.png)
+![1559470734159](https://raw.githubusercontent.com/florianvdab/big-data/master/1559470734159.png)
 
 ### Het probleem
 
@@ -330,11 +330,11 @@ Selecteer mogelijk factoren en onderzoek hun invloed.
 
 Hoe zou je de voorspelling kunnen verbeteren? 
 
-![1559470788835](C:\Users\Flori\Documents\Big Data MD\1559470788835.png)
+![1559470788835](https://raw.githubusercontent.com/florianvdab/big-data/master/1559470788835.png)
 
 ### De oplossing
 
-![1559470807905](C:\Users\Flori\Documents\Big Data MD\1559470807905.png)
+![1559470807905](https://raw.githubusercontent.com/florianvdab/big-data/master/1559470807905.png)
 
 Neurale werking wordt dus gesimuleerd door de computer:
 
@@ -378,7 +378,7 @@ Hoe meer trainingsdata, hoe slimmer de handeling.
 
 ### Inleiding
 
-![1559471194666](C:\Users\Flori\Documents\Big Data MD\1559471194666.png)
+![1559471194666](https://raw.githubusercontent.com/florianvdab/big-data/master/1559471194666.png)
 
 ### Het probleem
 
@@ -396,13 +396,13 @@ Er bestaan veel manieren, maar wij bespreken er 3:
 
 #### Hiërarchisch
 
-![1559471279712](C:\Users\Flori\AppData\Roaming\Typora\typora-user-images\1559471279712.png)
+![1559471279712](https://raw.githubusercontent.com/florianvdab/big-data/master/1559471279712.png)
 
 Dendogram - Gebruiker bepaalt zelf gewenste doorsnede.
 
 #### Puntsgewijs (K-means)
 
-![1559471325785](C:\Users\Flori\Documents\Big Data MD\1559471325785.png)
+![1559471325785](https://raw.githubusercontent.com/florianvdab/big-data/master/1559471325785.png)
 
 K-punten: vectoren/zwaartepunten.
 
@@ -412,7 +412,7 @@ K-punten: vectoren/zwaartepunten.
 
 #### Dichtheidsgewijs
 
-![1559471383910](C:\Users\Flori\Documents\Big Data MD\1559471383910.png)
+![1559471383910](https://raw.githubusercontent.com/florianvdab/big-data/master/1559471383910.png)
 
 Op zoek naar deelverzamelingen met voldoende elementen, voorwaarde is wel dat er duidelijke verschillen in dichtheid zijn. Werkt met drempelwaarde.
 
@@ -435,19 +435,19 @@ Clustering = veel gebruikt en zeer goed als eerste aanzet om een eerste inzicht 
 
 ## Lineaire regressie
 
-![1559472345948](C:\Users\Flori\Documents\Big Data MD\1559472345948.png)
+![1559472345948](https://raw.githubusercontent.com/florianvdab/big-data/master/1559472345948.png)
 
 ### Het probleem
 
-![1559472362569](C:\Users\Flori\Documents\Big Data MD\1559472362569.png)
+![1559472362569](https://raw.githubusercontent.com/florianvdab/big-data/master/1559472362569.png)
 
-![1559472389399](C:\Users\Flori\Documents\Big Data MD\1559472389399.png)
+![1559472389399](https://raw.githubusercontent.com/florianvdab/big-data/master/1559472389399.png)
 
 ### De oplossing
 
-![1559472401098](C:\Users\Flori\Documents\Big Data MD\1559472401098.png)
+![1559472401098](https://raw.githubusercontent.com/florianvdab/big-data/master/1559472401098.png)
 
-![1559472408503](C:\Users\Flori\Documents\Big Data MD\1559472408503.png)
+![1559472408503](https://raw.githubusercontent.com/florianvdab/big-data/master/1559472408503.png)
 
 ### De beperkingen
 
@@ -459,11 +459,11 @@ Voorwaarden op regressie te kunnen toepassen:
 
 Belangrijk: altijd de visuele voorstelling er bij ... Want ... 
 
-![1559472514059](C:\Users\Flori\Documents\Big Data MD\1559472514059.png)
+![1559472514059](https://raw.githubusercontent.com/florianvdab/big-data/master/1559472514059.png)
 
 Ook opletten met de schaal van je assen!
 
-![1559472526769](C:\Users\Flori\Documents\Big Data MD\1559472526769.png)
+![1559472526769](https://raw.githubusercontent.com/florianvdab/big-data/master/1559472526769.png)
 
 ## Naaste buur
 
@@ -471,7 +471,7 @@ Ook opletten met de schaal van je assen!
 
 Toepassingen vooral bij PATROON -en BEELD herkenning
 
-![1559472603418](C:\Users\Flori\Documents\Big Data MD\1559472603418.png)
+![1559472603418](https://raw.githubusercontent.com/florianvdab/big-data/master/1559472603418.png)
 
 Soort combinatie van clusteren en elementen uit lineaire regressie.
 
@@ -490,13 +490,13 @@ Hoe je dan ‘afstand’ bepaalt, is afhankelijk van de context: dit kan letterl
   - B bij grijs
   - C: ?
 
-![1559472769565](C:\Users\Flori\Documents\Big Data MD\1559472769565.png)
+![1559472769565](https://raw.githubusercontent.com/florianvdab/big-data/master/1559472769565.png)
 
 Merk op: belangrijk verschil met neurale netwerken: je gebruikt vooraf bestaande info, bij neurale netwerken wordt dit opgebouwd.
 
 ### De oplossing
 
-![1559472812924](C:\Users\Flori\Documents\Big Data MD\1559472812924.png)
+![1559472812924](https://raw.githubusercontent.com/florianvdab/big-data/master/1559472812924.png)
 
 - A & B duidelijk: gewoon meten en kleinste afstand kiezen
 - C ? 2 opties
@@ -509,7 +509,7 @@ Flexibel! 'Afstand' kan dus ook een combinatie van allerlei factoren gaan vormen
 
 Werkt pas goed als de instellingen voor het clusteren en de afstandsbepaling goed zijn afgesteld -> STERK afhankelijk van voorafgaande kennis
 
-![1559472957462](C:\Users\Flori\Documents\Big Data MD\1559472957462.png)
+![1559472957462](https://raw.githubusercontent.com/florianvdab/big-data/master/1559472957462.png)
 
 ## Regels afleiden
 
@@ -541,7 +541,7 @@ Key Value en Map Reduce kan handig ingezet worden
 
 Moeilijk met continue waarden: oplossing is in klassen verdelen, bv.
 
-![1559473160255](C:\Users\Flori\Documents\Big Data MD\1559473160255.png)
+![1559473160255](https://raw.githubusercontent.com/florianvdab/big-data/master/1559473160255.png)
 
 #### Bestaande regels
 
@@ -551,11 +551,11 @@ Moeilijk met continue waarden: oplossing is in klassen verdelen, bv.
 - Voorspellen van acties op basis van voorwaarden
 - Combinatie van beide
 
-![1559473208856](C:\Users\Flori\Documents\Big Data MD\1559473208856.png)
+![1559473208856](https://raw.githubusercontent.com/florianvdab/big-data/master/1559473208856.png)
 
 #### Nieuwe regels
 
-![1559473405166](C:\Users\Flori\Documents\Big Data MD\1559473405166.png)
+![1559473405166](https://raw.githubusercontent.com/florianvdab/big-data/master/1559473405166.png)
 
 ### De beperkingen
 
@@ -566,6 +566,6 @@ Hoe kies je de drempels? Niet te laag (veel regels maar waarschijnlijkheid laag)
 Verschil beslisboom?
 Beslisboom: per opsplitsing één regel
 
-![1559473262336](C:\Users\Flori\AppData\Roaming\Typora\typora-user-images\1559473262336.png)
+![1559473262336](https://raw.githubusercontent.com/florianvdab/big-data/master/1559473262336.png)
 
 Regels afleiden: mogelijkheid meerdere regels te combineren (if (… and .. and..) in één stap
