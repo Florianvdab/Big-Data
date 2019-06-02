@@ -402,7 +402,7 @@ Dendogram - Gebruiker bepaalt zelf gewenste doorsnede.
 
 #### Puntsgewijs (K-means)
 
-![1559471325785](https://raw.githubusercontent.com/florianvdab/big-data/master/1559471325785.png)
+![1559471325785](https://raw.githubusercontent.com/Florianvdab/Big-Data/master/1559471325785.png)
 
 K-punten: vectoren/zwaartepunten.
 
